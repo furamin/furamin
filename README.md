@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building resilient AI backends.<br>👯 I’m looking to collaborate on: Rust-based security tooling.<br>🤝 I’m looking for help with: Advanced eBPF for observability.<br>🌱 I’m currently learning: The intersection of TEEs (Trusted Execution Environments) and AI.<br>💬 Ask me about: System design, backend hardening, and infra-as-code.<br>⚡ Fun fact: I actually enjoy reading documentation.
+🔭 I’m currently working on: Building resilient AI Agentic backends.<br>👯 I’m looking to collaborate on: Rust-based security tooling and voice bot development.<br>🤝 I’m looking for help with: Advanced Quant for observability.<br>🌱 I’m currently learning: Zero-trust architecture for LLM agents and automated threat modeling.<br>💬 Ask me about: System design, backend hardening, and infra-as-code.<br>⚡ Fun fact: I actually enjoy reading documentation.
 
 
 ## 🌐 Socials:
